@@ -3,7 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There👋.+I'm+Umar+😎;" />
 </h1>
 
-## **`Professional Software Developer`** who is passionate about solving real-life problems through technology. I create & contribute to startups and innovative solutions with the goal of making life better for everyone. I enjoy turning complex challenges into impactful products that create positive change.
+## 💻 Senior Laravel Developer | Full-Stack Engineer
+🎯 Specialized in Business Automation & Large-Scale Applications
+
+Experienced in developing CRM, LMS, and ERP systems, with advanced skills in Laravel, Livewire, Eloquent ORM, and JavaScript. Passionate about solving complex problems, server management, and delivering efficient, scalable solutions. Always exploring the latest technologies to drive innovation in web development.
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
